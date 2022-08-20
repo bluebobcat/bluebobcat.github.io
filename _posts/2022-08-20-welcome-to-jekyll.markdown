@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up Github Pages and Jekyll!"
+title:  "Setting up my site on Github Pages and Jekyll!"
 date:   2022-08-20 15:25:52 -0400
 categories: jekyll update
 ---
