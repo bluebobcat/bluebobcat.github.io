@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Article no. 1"
+title:  "My Resume"
 date:   2022-08-21 15:25:52 -0400
 categories: jekyll update
 ---
