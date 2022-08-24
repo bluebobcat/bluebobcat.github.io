@@ -14,7 +14,7 @@ The recursion can be written as T(n)=sT(n)+O(1).
 To find this recurrence, I considered an example. Suppose we have an array of item values =[2,3,4]. The recurrence would therefore be T(n)=sT(n-2)+sT(n-3)+sT(n-4)+O(1). I then simplified this for an overall recurrence to represent the problem.
 
 ### Code
-```
+{% highlight cpp %}
 #include <iostream>
 #include "implement_hw.h"
 
@@ -93,7 +93,7 @@ int topDown_helper(const vector<int> &items, int goal, int memos[])
     memos[goal] = itemCount;
     return memos[goal];
 }
-```
+{% endhighlight %}
 
 
 

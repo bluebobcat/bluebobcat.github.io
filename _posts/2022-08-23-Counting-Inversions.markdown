@@ -16,7 +16,7 @@ Divide the array into halves. Call the algorithm on each half until we have suba
 This algorithm works because it breaks the full array into subarrays and then the elements are sorted in ascending order. When elements are moved to accomplish this, we can count an inversion because an inversion essentially means a value was "out of order." This algorithm considers every inversion by breaking down the full array into small arrays making it easier to count each inversion.
 
 ### Code
-```
+{% highlight cpp %}
 #include <iostream>
 #include "implement_hw.h"
 
@@ -102,7 +102,7 @@ int merge(vector<int> a, int s[], int l, int middle, int r)
     }
     return inversionCount;
 }
-```
+{% endhighlight %}
 
 
 
