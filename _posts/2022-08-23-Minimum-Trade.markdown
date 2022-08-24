@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Example - Maximizing a trade"
+title:  "Code Example - Maximizing a Trade"
 date:   2022-08-22 15:25:52 -0400
 categories: jekyll update
 ---
